@@ -16,7 +16,7 @@ to encrypt object:
   var object = {
     name: 'Hoa Mai',
     email: 'Hoa@example.com',
-    mobile: '**********',
+    mobile: '**********'
 
   }
   var encrypt = encdec.encObject(object);
