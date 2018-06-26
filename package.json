@@ -1,5 +1,5 @@
 {
-  "name": "nodejs_exe",
+  "name": "encdec",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto-random-string": "^1.0.0",
     "object-encrypt-decrypt": "^1.0.2"
   }
 }
