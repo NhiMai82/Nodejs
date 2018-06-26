@@ -1,5 +1,5 @@
 
-const EncDec = require('./module')
+const EncDec = require('./encdec')
 
 var object = {
   name: 'John Doe',
