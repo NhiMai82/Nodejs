@@ -7,13 +7,12 @@ To get the this package. Run the following command:
 
 after installing package you need to add this to your node main file (e.g. index.js or server.js) by adding following command:
 
-<pre>var objEncDec = require('object-encrypt-decrypt')</pre>
+<pre>var encdec = require('encdec')</pre>
 
 # Encrypt
 to encrypt object: 
 <pre>
 
-const encdec = require('./encdec')
   var object = {
     name: 'John Doe',
     email: 'john@example.com',
