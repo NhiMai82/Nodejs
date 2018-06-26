@@ -14,10 +14,10 @@ to encrypt object:
 <pre>
 
   var object = {
-    name: 'John Doe',
-    email: 'john@example.com',
+    name: 'Hoa Mai',
+    email: 'Hoa@example.com',
     mobile: '**********',
-    education: 'BTECH'
+
   }
   var encrypt = encdec.encObject(object);
 </pre>
