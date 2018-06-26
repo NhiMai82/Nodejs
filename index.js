@@ -9,5 +9,6 @@ var object = {
 }
 
 var encrypt = EncDec.encObject(object)
-console.log(encrypt)
-console.log(EncDec.decObject(encrypt))
+console.log('Object: ', object)
+console.log('Encrypt: ', encrypt)
+console.log('Decrypt: ', EncDec.decObject(encrypt))
